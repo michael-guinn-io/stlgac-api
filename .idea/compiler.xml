@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="stlgac-api" target="1.6" />
+      <module name="stlgac-api" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>

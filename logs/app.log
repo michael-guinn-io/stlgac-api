@@ -1,0 +1,49 @@
+2021-12-21 10:59:03,460 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 10:59:03,477 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 10:59:40,926 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 10:59:40,941 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 10:59:59,241 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 10:59:59,257 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:01:28,096 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:01:28,110 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:01:58,315 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:01:58,318 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:01:58,332 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:01:58,333 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:02:32,148 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:02:32,151 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:02:32,163 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:02:32,164 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:03:46,510 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:03:46,513 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:03:46,526 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:03:46,527 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:05:18,556 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:05:18,558 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:05:18,572 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:05:18,572 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:05:54,267 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:05:54,270 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:05:54,285 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:05:54,285 DEBUG i.g.s.GACObject [main] File io.guinn.stlgac.GACObjectTest.properties does not exist
+2021-12-21 11:08:34,074 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:08:34,087 DEBUG i.g.s.GACObject [main] Loading properties from io.guinn.stlgac.GACObjectTest.properties
+2021-12-21 11:10:26,531 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:10:26,544 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:11:16,025 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:11:16,040 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:13:02,719 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:13:02,729 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:40:09,663 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:40:09,677 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:42:03,134 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:42:50,813 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:42:58,077 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:42:58,092 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:42:58,103 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:42:58,108 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:43:51,675 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:43:51,694 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:43:51,700 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:43:51,705 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest.properties
+2021-12-21 11:45:49,817 DEBUG i.g.s.GACObject [main] Loading properties from GACObjectTest2.properties
